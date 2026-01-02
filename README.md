@@ -1,5 +1,6 @@
-### Hi there, it's Piyush 👋
+### Hi 👋 I'm Piyush Virani
 
+###About Me:
 I am a 3rd Year Computer Science Student with a minor in Economics at Carleton University, Ottawa, ON.
 I am currently learning and refreshing on React Native, Typescript and Vite.js, HTML, CSS and other tech stack by doing some project based learning. I am building an app that reduces average item retrieval time at the Library by over 40%. 
 The repository is currently private as I am adding finishing touches to it, but it will soon be made public.

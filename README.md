@@ -1,5 +1,9 @@
 ### Hi there, it's Piyush 👋
 
+I am a 3rd Year Computer Science Student with a minor in Economics at Carleton University, Ottawa, ON.
+I am currently learning and refreshing React Native, Typescript by doing some project based learning. I am building an app that reduces average item retrieval time at the Library by over 40%. 
+The repository is currently private as I am adding finishing touches to it, but it will soon be made public.
+
 ## 🌐 Socials:
 Lets connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushvirani) 
 

@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋 I'm Piyush Virani</h1>
+<h1 align="center">Hi 👋 I'm Piyush Virani</h1>
 
 # About Me:
 I am a 3rd Year Computer Science Student with a minor in Economics at Carleton University, Ottawa, ON.
